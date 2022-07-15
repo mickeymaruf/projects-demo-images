@@ -1,5 +1,8 @@
 # projects-demo-images
 
-![Thumbnail](https://github.com/mickeymaruf/projects-demo-images/blob/main/gamely/home.png)
+![Thumbnail](https://github.com/mickeymaruf/projects-demo-images/blob/main/home.png)
 
-![Thumbnail](https://github.com/mickeymaruf/projects-demo-images/blob/main/gamely/home-mobo.png)![Thumbnail](https://github.com/mickeymaruf/projects-demo-images/blob/main/gamely/store-mobo.png)
+![Thumbnail](https://github.com/mickeymaruf/projects-demo-images/blob/main/cart.png)
+
+![Thumbnail](https://github.com/mickeymaruf/projects-demo-images/blob/main/mobo.png)
+
